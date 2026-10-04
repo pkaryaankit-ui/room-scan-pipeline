@@ -1,0 +1,7 @@
+capture_id, tier, measurement, value_m
+1a8384c3f6, lidar, ceiling_height, 2.45
+1a8384c3f6, lidar, floor_area_room_0, 12.0
+c00a170fe1, video, ceiling_height, 2.40
+c00a170fe1, video, floor_area_room_0, 15.5
+c7d28f72c6, photo, ceiling_height, 2.50
+c7d28f72c6, photo, floor_area_room_0, 10.2

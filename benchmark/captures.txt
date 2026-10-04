@@ -1,0 +1,6 @@
+# Benchmark captures list
+# Format: <absolute_or_relative_path_to_capture_folder> [<tier>]
+
+../1a8384c3f6 lidar
+../c00a170fe1 video
+../c7d28f72c6 photo
